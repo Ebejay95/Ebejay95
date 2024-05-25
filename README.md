@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Eberle</h1>
-<h3 align="center">and i love to code!</h3>
+<h3 align="center">and I love to code!</h3>
 
-- 🔭 I’m currently working on **42 School Projects Heilbronn**
+- 🔭 I’m currently working at **42 School Projects Heilbronn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
