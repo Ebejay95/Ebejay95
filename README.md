@@ -1,4 +1,4 @@
-<div style="background-image: url('https://raw.githubusercontent.com/Ebejay95/Ebejay95/main/bg.png'); background-size: cover; padding: 20px;">
+<div style="background-image: url('https://raw.githubusercontent.com/Ebejay95/Ebejay95/master/bg.png'); background-size: cover; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Jonathan Eberle</h1>
 <h3 align="center">and i love to code!</h3>
 
