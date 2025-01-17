@@ -32,10 +32,9 @@ maybe | it could be awesome!
 
 ## Courses
 
-Repo link | Description
---- | ---
-yet to come | it will be awesome! 
-
+Repo link | my Role | Description
+--- | --- | ---
+**[webdev_in_a_nutshell_42_tutorium](https://github.com/Ebejay95/webdev_in_a_nutshell_42_tutorium)** | tutor and author | **A course on Frontend Development and REST APIs for 42 students with a bunch of learning material**
 
 ## For fun
 
