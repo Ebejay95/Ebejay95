@@ -5,12 +5,12 @@
 Repo link | Description
 --- | ---
 **[Libft](https://github.com/Ebejay95/libft) <br> [Libft Submitted](https://github.com/Ebejay95/libft_submission)**|  **Your very first own library - This project is about coding a C library**
-**[ft_printf](https://github.com/B18a/42_ft_printf)** | **Recoding printf to discover variadic functions in C**
+**[ft_printf](https://github.com/Ebejay95/ft_printf)** | **Recoding printf to discover variadic functions in C**
 Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 **[get_next_line](https://github.com/B18a/42_get_next_line)** | **This project is about programming a function that returns a line read from a file descriptor**
-**[pipex](https://github.com/B18a/42_minitalk)** | **The purpose of this project is to code a small system pipe simulation with in and out streams on fds**
-**[push_swap](https://github.com/B18a/42_push_swap)** | **This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions choosing an appropiate algorithm**
-**[so_long](https://github.com/B18a/42_so_long)** | **This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements using minilibx-library**
+**[pipex](https://github.com/Ebejay95/pipex)** | **The purpose of this project is to code a small system pipe simulation with in and out streams on fds**
+**[push_swap](https://github.com/Ebejay95/push_swap)** | **This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions choosing an appropiate algorithm**
+**[so_long](https://github.com/Ebejay95/so_long)** | **This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements using minilibx-library**
 **[Philosophers](https://github.com/B18a/42_philo)** | **Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger**
 **[Netpractice](https://github.com/Ebejay95/netpractice)** | **get to know ip adresses, basic networking with subnets and adress ragnes**
 **[minishell](https://github.com/B18a/42_minishell)** | **This project is about creating a simple shell - similar to Bash**
@@ -36,6 +36,7 @@ Repo link | Description
 Repo link | my Role | Description
 --- | --- | ---
 **[webdev_in_a_nutshell_42_tutorium](https://github.com/Ebejay95/webdev_in_a_nutshell_42_tutorium)** | tutor and author | **A course on Frontend Development and REST APIs for 42 students with a bunch of learning material**
+**[go_for_go]([https://github.com/Ebejay95/prioritygame](https://github.com/Ebejay95/go_for_go))** | An Academind Udemy Course I bought and followed | **Introduction into go**
 
 ## For fun
 
