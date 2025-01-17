@@ -1,6 +1,6 @@
 # Projects
 
-## 42 Heilbronn
+## 42 Heilbronn Core Curriculum
 
 Repo link | Description
 --- | ---
@@ -16,9 +16,27 @@ Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 **[Cub3D](https://github.com/B18a/42_cub3d)** | **My first RayCaster with miniLibX**
 **[Inception](https://github.com/B18a/42_Inception)** | **One Container is not enough - We need to go deeper**
 **[C++ Module00-04](https://github.com/B18a/42_cpp)** | **Getting started with C++ - basic syntax, pointers and references, orthodox canonical classes, inheritance, polymorphism, overloads, abstract classes and interfaces**
-Upcomming Projects
 **[C++ Module05-09](https://github.com/B18a/42_cpp_part2)** | **Continuing with cppp - try and catch, casts, templates and containers**
 **[Webserv]** | **This is when you finally understand why a URL starts with HTTP**
 **[ft_transcendence]** | **Surprise**
 
-# 42Heilbronn
+
+## 42 Heilbronn Mastery
+
+Repo link | Description
+--- | ---
+maybe | it could be awesome! 
+
+
+## Courses
+
+Repo link | Description
+--- | ---
+yet to come | it will be awesome! 
+
+
+## For fun
+
+Repo link | Description
+--- | ---
+yet to come | it will be awesome! 
