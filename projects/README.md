@@ -12,6 +12,7 @@ Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 **[push_swap](https://github.com/B18a/42_push_swap)** | **This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions choosing an appropiate algorithm**
 **[so_long](https://github.com/B18a/42_so_long)** | **This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements using minilibx-library**
 **[Philosophers](https://github.com/B18a/42_philo)** | **Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger**
+**Netpractice** | **get to know ip adresses, basic networking with subnets and adress ragnes**
 **[minishell](https://github.com/B18a/42_minishell)** | **This project is about creating a simple shell - similar to Bash**
 **[Cub3D](https://github.com/B18a/42_cub3d)** | **My first RayCaster with miniLibX**
 **[Inception](https://github.com/B18a/42_Inception)** | **One Container is not enough - We need to go deeper**
