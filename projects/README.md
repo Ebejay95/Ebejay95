@@ -27,8 +27,8 @@ Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 Repo link | Description
 --- | ---
 **[inquisitor](https://github.com/Ebejay95/inquisitor)** | **A project on a man in the middle attack**
-[comment]: **[vaccine](https://github.com/Ebejay95/vaccine)** | **A project on SQL Injection**
-[comment]: **[iron_dome](https://github.com/Ebejay95/iron_dome)** | **A project on firewalls**
+[comment]: <> **[vaccine](https://github.com/Ebejay95/vaccine)** | **A project on SQL Injection**
+[comment]: <> **[iron_dome](https://github.com/Ebejay95/iron_dome)** | **A project on firewalls**
 
 
 ## Courses
