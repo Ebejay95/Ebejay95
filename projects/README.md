@@ -4,8 +4,7 @@
 
 Repo link | Description
 --- | ---
-**[Libft](https://github.com/Ebejay95/libft)**
-**[Libft Submitted](https://github.com/Ebejay95/libft_submission)**|  **Your very first own library - This project is about coding a C library**
+**[Libft](https://github.com/Ebejay95/libft) [Libft Submitted](https://github.com/Ebejay95/libft_submission)**|  **Your very first own library - This project is about coding a C library**
 **[ft_printf](https://github.com/B18a/42_ft_printf)** | **Recoding printf to discover variadic functions in C**
 Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 **[get_next_line](https://github.com/B18a/42_get_next_line)** | **This project is about programming a function that returns a line read from a file descriptor**
@@ -17,7 +16,7 @@ Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 **[minishell](https://github.com/B18a/42_minishell)** | **This project is about creating a simple shell - similar to Bash**
 **[Cub3D](https://github.com/B18a/42_cub3d)** | **My first RayCaster with miniLibX**
 **[Inception](https://github.com/B18a/42_Inception)** | **One Container is not enough - We need to go deeper**
-**[C++ Module [00](https://github.com/Ebejay95/cpp00), [01](https://github.com/Ebejay95/cpp01), [02](https://github.com/Ebejay95/cpp02), [03](https://github.com/Ebejay95/cpp03), [04](https://github.com/Ebejay95/cpp04)** | **Getting started with C++ - basic syntax, pointers and references, orthodox canonical classes, inheritance, polymorphism, overloads, abstract classes and interfaces**
+**C++ Module [00](https://github.com/Ebejay95/cpp00), [01](https://github.com/Ebejay95/cpp01), [02](https://github.com/Ebejay95/cpp02), [03](https://github.com/Ebejay95/cpp03), [04](https://github.com/Ebejay95/cpp04)** | **Getting started with C++ - basic syntax, pointers and references, orthodox canonical classes, inheritance, polymorphism, overloads, abstract classes and interfaces**
 **[C++ Module05-09](https://github.com/B18a/42_cpp_part2)** | **Continuing with cppp - try and catch, casts, templates and containers**
 **[Webserv]** | **This is when you finally understand why a URL starts with HTTP**
 **[ft_transcendence](https://github.com/Ebejay95/transcendence)** | **Surprise**
