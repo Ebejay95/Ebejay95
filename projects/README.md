@@ -36,7 +36,7 @@ Repo link | Description
 Repo link | my Role | Description
 --- | --- | ---
 **[webdev_in_a_nutshell_42_tutorium](https://github.com/Ebejay95/webdev_in_a_nutshell_42_tutorium)** | tutor and author | **A course on Frontend Development and REST APIs for 42 students with a bunch of learning material**
-**[go_for_go]([https://github.com/Ebejay95/prioritygame](https://github.com/Ebejay95/go_for_go))** | An Academind Udemy Course I bought and followed | **Introduction into go**
+**[go_for_go](https://github.com/Ebejay95/go_for_go)** | An Academind Udemy Course I bought and followed | **Introduction into go**
 
 ## For fun
 
