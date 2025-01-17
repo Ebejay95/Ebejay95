@@ -4,7 +4,7 @@
 
 Repo link | Description
 --- | ---
-**[Libft](https://github.com/Ebejay95/libft) [Libft Submitted](https://github.com/Ebejay95/libft_submission)**|  **Your very first own library - This project is about coding a C library**
+**[Libft](https://github.com/Ebejay95/libft) <br> [Libft Submitted](https://github.com/Ebejay95/libft_submission)**|  **Your very first own library - This project is about coding a C library**
 **[ft_printf](https://github.com/B18a/42_ft_printf)** | **Recoding printf to discover variadic functions in C**
 Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 **[get_next_line](https://github.com/B18a/42_get_next_line)** | **This project is about programming a function that returns a line read from a file descriptor**
