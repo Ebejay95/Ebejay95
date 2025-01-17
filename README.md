@@ -26,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ebejay95&show_icons=true&locale=en&theme=dark&hide" alt="Ebejay95" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ebejay95&label=Profile%20views&color=0e75b6&style=flat" alt="Ebejay95" /> </p>
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4070387" style='border:none;'></iframe>
-
