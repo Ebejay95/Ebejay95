@@ -52,6 +52,7 @@ Repo link | Description
 **[web3boilerplate](https://github.com/Ebejay95/web3boilerplate)** | **Hardhat based setup for smart contracts**
 **[go_api](https://github.com/Ebejay95/go_api)** | **simlpe go api with gin**
 **[mern_biolerplate](https://github.com/Ebejay95/mern_biolerplate)** | **dockerized and reqdy to use setup for mern apps**
+**[mern_biolerplate](https://github.com/Ebejay95/remix_biolerplate)** | **dockerized and reqdy to use setup for a remix app**
 
 ## Development Environment
 
