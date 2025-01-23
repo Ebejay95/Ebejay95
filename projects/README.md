@@ -51,8 +51,8 @@ Repo link | Description
 **[renaissace](https://github.com/Ebejay95/renaissance)** | **Tabletop Game: "Age of Renaissance" by Jaques Descartes as a Websocket based 
 **[web3boilerplate](https://github.com/Ebejay95/web3boilerplate)** | **Hardhat based setup for smart contracts**
 **[go_api](https://github.com/Ebejay95/go_api)** | **simlpe go api with gin**
-**[mern_biolerplate](https://github.com/Ebejay95/mern_biolerplate)** | **dockerized and reqdy to use setup for mern apps**
-**[remix_biolerplate](https://github.com/Ebejay95/remix_biolerplate)** | **dockerized and reqdy to use setup for a remix app**
+**[mern_boilerplate](https://github.com/Ebejay95/mern_boilerplate)** | **dockerized and reqdy to use setup for mern apps**
+**[remix_boilerplate](https://github.com/Ebejay95/remix_boilerplate)** | **dockerized and reqdy to use setup for a remix app**
 
 ## Development Environment
 
