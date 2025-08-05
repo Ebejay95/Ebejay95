@@ -1,5 +1,31 @@
 # Projects
 
+## My own
+
+Repo link | Description
+--- | ---
+**[go_vue_boilerplate](https://github.com/Ebejay95/go_vue_boilerplate)** | **dockerized and ready to use setup for a vue app with a go backend using grpc, database migrations, testing (unit, e2e, integration), and a lot more**
+**[prioritygame](https://github.com/Ebejay95/prioritygame)** | **Little ToDo Manager in Angular**
+**[renaissace](https://github.com/Ebejay95/renaissance)** | **Tabletop Game: "Age of Renaissance" by Jaques Descartes as a Websocket based 
+**[web3boilerplate](https://github.com/Ebejay95/web3boilerplate)** | **Hardhat based setup for smart contracts**
+**[go_api](https://github.com/Ebejay95/go_api)** | **simlpe go api with gin**
+**[mern_boilerplate](https://github.com/Ebejay95/mern_boilerplate)** | **dockerized and reqdy to use setup for mern apps**
+**[remix_boilerplate](https://github.com/Ebejay95/remix_boilerplate)** | **dockerized and ready to use setup for a remix app**
+
+
+## 42 Heilbronn Mastery
+
+Repo link | Description
+--- | ---
+**[arachnida](https://github.com/Ebejay95/arachnida)** | **A crawler and a scraper**
+**[ft_otp](https://github.com/Ebejay95/ft_otp)** | **One time password generator, which is comaptible with authenticator app**
+**[ft_onion](https://github.com/Ebejay95/ft_onion)** | **A tor broswer relay**
+**[reverse_me](https://github.com/Ebejay95/reverse_me)** | **Reverse Engineering exercise**
+**[inquisitor](https://github.com/Ebejay95/inquisitor)** | **A project on a man in the middle attack**
+**[stockholm](https://github.com/Ebejay95/stockholm)** | **Maleware, yet not harmful**
+<!-- **[vaccine](https://github.com/Ebejay95/vaccine)** | **A project on SQL Injection** -->
+<!-- **[iron_dome](https://github.com/Ebejay95/iron_dome)** | **A project on firewalls** -->
+
 ## 42 Heilbronn Core Curriculum
 
 Repo link | Description
@@ -22,20 +48,6 @@ Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 **[ft_transcendence](https://github.com/Ebejay95/transcendence)** | **Surprise**
 
 
-## 42 Heilbronn Mastery
-
-Repo link | Description
---- | ---
-**[arachnida](https://github.com/Ebejay95/arachnida)** | **A crawler and a scraper**
-**[ft_otp](https://github.com/Ebejay95/ft_otp)** | **One time password generator, which is comaptible with authenticator app**
-**[ft_onion](https://github.com/Ebejay95/ft_onion)** | **A tor broswer relay**
-**[reverse_me](https://github.com/Ebejay95/reverse_me)** | **Reverse Engineering exercise**
-**[inquisitor](https://github.com/Ebejay95/inquisitor)** | **A project on a man in the middle attack**
-**[stockholm](https://github.com/Ebejay95/stockholm)** | **Maleware, yet not harmful**
-<!-- **[vaccine](https://github.com/Ebejay95/vaccine)** | **A project on SQL Injection** -->
-<!-- **[iron_dome](https://github.com/Ebejay95/iron_dome)** | **A project on firewalls** -->
-
-
 ## Courses
 
 Repo link | my Role | Description
@@ -43,17 +55,6 @@ Repo link | my Role | Description
 **[webdev_in_a_nutshell_42_tutorium](https://github.com/Ebejay95/webdev_in_a_nutshell_42_tutorium)** | tutor and author | **A course on Frontend Development and REST APIs for 42 students with a bunch of learning material**
 **[go_for_go](https://github.com/Ebejay95/go_for_go)** | An Academind Udemy Course I bought and followed | **Introduction into go**
 
-## For fun
-
-Repo link | Description
---- | ---
-**[prioritygame](https://github.com/Ebejay95/prioritygame)** | **Little ToDo Manager in Angular**
-**[renaissace](https://github.com/Ebejay95/renaissance)** | **Tabletop Game: "Age of Renaissance" by Jaques Descartes as a Websocket based 
-**[web3boilerplate](https://github.com/Ebejay95/web3boilerplate)** | **Hardhat based setup for smart contracts**
-**[go_api](https://github.com/Ebejay95/go_api)** | **simlpe go api with gin**
-**[mern_boilerplate](https://github.com/Ebejay95/mern_boilerplate)** | **dockerized and reqdy to use setup for mern apps**
-**[remix_boilerplate](https://github.com/Ebejay95/remix_boilerplate)** | **dockerized and ready to use setup for a remix app**
-**[go_vue_boilerplate](https://github.com/Ebejay95/go_vue_boilerplate)** | **dockerized and ready to use setup for a vue app with a go backend using grpc**
 
 ## Development Environment
 
@@ -61,4 +62,5 @@ Repo link | Description
 --- | ---
 **[notes](https://github.com/Ebejay95/notes)** | **Basic notes about C Programming and useful commands and concepts for 42 and C, C++ Development**
 **[nvim-setup](https://github.com/Ebejay95/nvim-setup)** | **Setup for nvim with file system, syntax highlighting, some linters, etc.**
+
 
