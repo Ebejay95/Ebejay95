@@ -5,6 +5,7 @@
 Repo link | Description
 --- | ---
 **[go_vue_boilerplate](https://github.com/Ebejay95/go_vue_boilerplate)** | **dockerized and ready to use setup for a vue app with a go backend using grpc, database migrations, testing (unit, e2e, integration), and a lot more**
+**[hexadecimal_todos](https://github.com/Ebejay95/hexagonal_todos)** | **Little ToDo Manager in Hexagonal Archticture (to learn)**
 **[prioritygame](https://github.com/Ebejay95/prioritygame)** | **Little ToDo Manager in Angular**
 **[renaissace](https://github.com/Ebejay95/renaissance)** | **Tabletop Game: "Age of Renaissance" by Jaques Descartes as a Websocket based 
 **[web3boilerplate](https://github.com/Ebejay95/web3boilerplate)** | **Hardhat based setup for smart contracts**
@@ -62,5 +63,6 @@ Repo link | Description
 --- | ---
 **[notes](https://github.com/Ebejay95/notes)** | **Basic notes about C Programming and useful commands and concepts for 42 and C, C++ Development**
 **[nvim-setup](https://github.com/Ebejay95/nvim-setup)** | **Setup for nvim with file system, syntax highlighting, some linters, etc.**
+
 
 
