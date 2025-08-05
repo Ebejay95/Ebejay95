@@ -6,7 +6,7 @@
 
 - 👨‍💻 Meet me at [https://www.jonathan-eberle.com/](https://www.jonathan-eberle.com/)
   
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/Ebejay95/Ebejay95/edit/main/projects/)
+- 👨‍💻 Quick overview about my work [Projects](https://github.com/Ebejay95/Ebejay95/edit/main/projects/)
 
 - 👨‍💻 Visit me on [tryhackme](https://tryhackme.com/r/p/Ebejay95)
 
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ebejay95&show_icons=true&locale=en&theme=dark&hide" alt="Ebejay95" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ebejay95&label=Profile%20views&color=0e75b6&style=flat" alt="Ebejay95" /> </p>
+
