@@ -4,6 +4,7 @@
 
 Repo link | Description
 --- | ---
+**[llm-evaluation](https://github.com/Ebejay95/llm-evaluation)** | **llm evaluation framework for hallucination measurement**
 **[go_vue_boilerplate](https://github.com/Ebejay95/go_vue_boilerplate)** | **dockerized and ready to use setup for a vue app with a go backend using grpc, database migrations, testing (unit, e2e, integration), and a lot more**
 **[hexadecimal_todos](https://github.com/Ebejay95/hexagonal_todos)** | **Little ToDo Manager in Hexagonal Archticture (to learn)**
 **[prioritygame](https://github.com/Ebejay95/prioritygame)** | **Little ToDo Manager in Angular**
@@ -63,6 +64,7 @@ Repo link | Description
 --- | ---
 **[notes](https://github.com/Ebejay95/notes)** | **Basic notes about C Programming and useful commands and concepts for 42 and C, C++ Development**
 **[nvim-setup](https://github.com/Ebejay95/nvim-setup)** | **Setup for nvim with file system, syntax highlighting, some linters, etc.**
+
 
 
 
