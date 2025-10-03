@@ -60,7 +60,6 @@ Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 
 Repo link | my Role | Description
 --- | --- | ---
-**[webdev_in_a_nutshell_42_tutorium](https://github.com/Ebejay95/webdev_in_a_nutshell_42_tutorium)** | tutor and author | **A course on Frontend Development and REST APIs for 42 students with a bunch of learning material**
 **[go_for_go](https://github.com/Ebejay95/go_for_go)** | An Academind Udemy Course I bought and followed | **Introduction into go**
 
 
@@ -70,6 +69,7 @@ Repo link | Description
 --- | ---
 **[notes](https://github.com/Ebejay95/notes)** | **Basic notes about C Programming and useful commands and concepts for 42 and C, C++ Development**
 **[nvim-setup](https://github.com/Ebejay95/nvim-setup)** | **Setup for nvim with file system, syntax highlighting, some linters, etc.**
+
 
 
 
