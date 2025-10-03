@@ -14,6 +14,12 @@ Repo link | Description
 **[mern_boilerplate](https://github.com/Ebejay95/mern_boilerplate)** | **dockerized and reqdy to use setup for mern apps**
 **[remix_boilerplate](https://github.com/Ebejay95/remix_boilerplate)** | **dockerized and ready to use setup for a remix app**
 
+## Courses by me
+
+Repo link | my Role | Description
+--- | --- | ---
+**[webdev_in_a_nutshell_42_tutorium](https://github.com/Ebejay95/webdev_in_a_nutshell_42_tutorium)** | tutor and author | **A course on Frontend Development and REST APIs for 42 students with a bunch of learning material**
+**[AIM-Vom-ersten-Code-zur-eigenen-Idee](https://github.com/Ebejay95/AIM-Vom-ersten-Code-zur-eigenen-Idee)** | tutor and author | **A course for pupils to get an introduction into programming with python, covering a lot of basic concepts**
 
 ## 42 Heilbronn Mastery
 
@@ -50,7 +56,7 @@ Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 **[ft_transcendence](https://github.com/Ebejay95/transcendence)** | **Surprise**
 
 
-## Courses
+## Courses i did as a participant
 
 Repo link | my Role | Description
 --- | --- | ---
@@ -64,6 +70,7 @@ Repo link | Description
 --- | ---
 **[notes](https://github.com/Ebejay95/notes)** | **Basic notes about C Programming and useful commands and concepts for 42 and C, C++ Development**
 **[nvim-setup](https://github.com/Ebejay95/nvim-setup)** | **Setup for nvim with file system, syntax highlighting, some linters, etc.**
+
 
 
 
